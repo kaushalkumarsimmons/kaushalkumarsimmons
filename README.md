@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaushalkumarsimmons
+- 👋 Hi, I’m @kaushal kumar, Doctoral Student at Institute for Applied Mathematics, Heidelberg University, Germany.
 - 👀 I’m interested in Nonlinear Dynamics, Numerical Optimization, Machine learning & Computational Neuroscience
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data analysis
