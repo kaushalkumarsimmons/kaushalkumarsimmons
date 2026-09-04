@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushal kumar, PhD in Mathematics from the Institute for Mathematics, Heidelberg University, Germany.
-- 👀 I’m interested in Nonlinear Dynamics, Numerical Optimization, Machine learning & Computational Neuroscience
-- 🌱 I’m currently learning Data Science, Time Series Analysis & Optimization.
+- 👀 I’m interested in Nonlinear Dynamics, Numerical Optimization, Machine Learning & Data Science
+- 🌱 I’m currently learning Clinical Data Science, Time Series Analysis & Optimization.
 - 💞️ I’m looking to collaborate on Data analysis
 - 📫 You can reach me via email: kaushalkumar1234@gmail.com
 
