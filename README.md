@@ -1,4 +1,4 @@
-# Hi there, I'm Dr. Kaushal Kumar! 👋
+# Hi there, I'm  Kaushal Kumar! 👋
 
 I am an **Applied Mathematician** and **Data Scientist** with a Ph.D. (*Dr. rer. nat.*) from the **Institute for Mathematics at Heidelberg University**, Germany. I specialize in leveraging advanced mathematical frameworks to solve complex, data-driven problems.
 
